@@ -1,0 +1,9 @@
+{
+    "name": "static",
+    "version": "1.0.0",
+    "description": "Sami's static files",
+    "main": "dist/index.js",
+    "scripts": {},
+    "author": "Sami Hamed <sami.hamed@iaiaio.io>",
+    "dependencies": {}
+}
